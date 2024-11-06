@@ -1,0 +1,12 @@
+h1 { 
+    text-align: start;
+    color: white;
+    background-color:black;
+    margin: 0vh;
+    padding: 10px;
+    
+}
+nav ul a {
+    background-color: black;
+    padding: 20px;
+}
