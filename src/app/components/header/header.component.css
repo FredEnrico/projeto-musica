@@ -1,5 +1,5 @@
 h1 { 
-    text-align: start;
+   
     color: white;
     background-color:black;
     margin: 0vh;
@@ -9,4 +9,15 @@ h1 {
 nav ul a {
     background-color: black;
     padding: 20px;
+}
+.p1 {
+    display: flex;
+    background-color: black;
+    justify-content: space-evenly;
+   margin: 0px;  
+   
+}   
+.div2 {
+    text-align: center;
+    gap: 10px;
 }
