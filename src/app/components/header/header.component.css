@@ -5,19 +5,31 @@ h1 {
     margin: 0vh;
     padding: 10px;
     
+    
 }
-nav ul a {
+nav ul  {
     background-color: black;
     padding: 20px;
+    margin: 0vh;
 }
 .p1 {
     display: flex;
-    background-color: black;
-    justify-content: space-evenly;
+     background-color: black;
+     
    margin: 0px;  
+   gap: 300px;
    
 }   
 .div2 {
     text-align: center;
     gap: 10px;
 }
+.barrabusca {
+    height: 25px;
+    width: 50vh;
+    border-radius: 100vh;
+ 
+    
+    
+}
+
