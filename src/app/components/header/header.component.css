@@ -1,35 +1,56 @@
-h1 { 
+main{
+    background-color: rgba(0, 0, 0, 0.762);
+    
+}
+.fase{
+    color: black;
+    background-color: rgb(0, 0, 0);
+    height: 4vh;
+/*esse código foi feito apenas para ter espaço no começo da página */    
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.525);
+    margin: 0;
+    
+}
+ h1 { 
    
     color: white;
-    background-color:black;
-    margin: 0vh;
-    padding: 10px;
-    
+    margin: 0;
+    padding: 25px;
+    /*este código mexe na cor da fonte do h1 RitmoDigital*/
     
 }
 nav ul  {
-    background-color: black;
+   
     padding: 20px;
-    margin: 0vh;
+    margin: 0;
+    
 }
 .p1 {
     display: flex;
-     background-color: black;
-     
-   margin: 0px;  
+     background-color: rgba(0, 0, 0, 0.375);
+   margin: 0;  
    gap: 300px;
    
 }   
 .div2 {
-    text-align: center;
-    gap: 10px;
+    text-align: end;
+    padding: 10px;
 }
 .barrabusca {
-    height: 25px;
-    width: 50vh;
+    height: 35px;
+    width: 55vh;
     border-radius: 100vh;
- 
+    text-align: center;
     
     
+    
+}
+.linha1 {
+    background-color: blue;
+    height: 1vh;
+    color: blue;
 }
 
